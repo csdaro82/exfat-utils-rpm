@@ -1,0 +1,3 @@
+= DeskOS:  exfat-utils RPM
+
+This is the  exfat-utils RPM package for the DeskOS operating system.
